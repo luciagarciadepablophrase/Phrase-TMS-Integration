@@ -1,6 +1,6 @@
 # Remediating Overexposed S3 Buckets Identified by Cyera Data Security Scans
 
-**Document type:** Remediation guidance — technical documentation
+**Document type:** Remediation guidance and technical documentation
 **Applies to:** Cyera Data Security Platform · AWS S3 · All supported scan profiles
 **Severity classifications addressed:** Critical, High
 
