@@ -84,7 +84,7 @@ The Controller, or an auditor mandated by the Controller under obligations of co
 
 ## 12. Governing Law
 
-This Agreement shall be governed by the laws of the State of Delaware, without regard to its conflict of law principles, except where superseded by applicable mandatory data protection law in the jurisdiction of the Controller.
+This Agreement shall be governed by the laws of the State of New York, without regard to its conflict of law principles, except where superseded by applicable mandatory data protection law in the jurisdiction of the Controller.
 
 ---
 
